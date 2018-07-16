@@ -243,7 +243,7 @@ Discrimination is the treatment or consideration of, or making a distinction in 
 
 The International Convention on the Elimination of All Forms of Racial Discrimination (ICERD), in 1966, defined discrimination as
 
-> “Any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.”
+> Any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.
 
 
 
