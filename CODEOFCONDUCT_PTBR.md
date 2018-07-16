@@ -1,3 +1,5 @@
+# CÓDIGO DE CONDUTA
+
 ### Deseja contribuir?
 
 Este documento é *open source* e nós ficaremos felizes com sua contribuição!
@@ -53,8 +55,6 @@ As medidas que devem ser tomadas em caso de descumprimento do Código de Conduta
 Na aplicação das medidas disciplinares, serão consideradas a natureza e a gravidade da infração, e nas consequências causadas pelos atos, tanto a outros indivíduos como para a empresa como um todo.
 
 - - - -
-
-# CÓDIGO DE CONDUTA
 
 ## CONDUTAS QUE ESPERAMOS DOS NOSSOS TROOPERS
 
