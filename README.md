@@ -1,7 +1,5 @@
 # Code of Conduct
 
-## List of Contents
-
 * Code of Conduct [in english](/CODEOFCONDUCT_EN.md) and [in portuguese](/CODEOFCONUDCT_PTBR.md)
 * Addendum - Prevention and Treatment of Harassment and Work Discrimination [in english](CODEOFCONDUCT_ADDENDUM_EN.md) and [in portuguese](/CODEOFCONDUCT_ADDENDUM_PTBR.md)
 
