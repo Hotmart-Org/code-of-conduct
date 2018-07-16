@@ -1,8 +1,8 @@
 # ADENDO AO CÓDIGO DE CONDUTA
 
-## ESTABELECE NORMAS E PROCEDIMENTOS PARA PREVENÇÃO E COMBATE DO ASSÉDIO E DISCRIMINAÇÃO NO TRABALHO
+### ESTABELECE NORMAS E PROCEDIMENTOS PARA PREVENÇÃO E COMBATE DO ASSÉDIO E DISCRIMINAÇÃO NO TRABALHO
 
-## I -	O COMPROMISSO DA HOTMART NA PREVENÇÃO E COMBATE AO ASSÉDIO
+### I -	O COMPROMISSO DA HOTMART NA PREVENÇÃO E COMBATE AO ASSÉDIO
 
 1. A Hotmart é co-responsável pelo bem-estar e integridade de todos os Troopers no exercício das suas funções, em quaisquer situações em que eles estiverem representando a empresa.
 
@@ -20,7 +20,7 @@
 
 9. Ao Trooper que se sentir assediado ou discriminado é garantido a imediata interrupção da interação com o cliente, comunicando o fato ao seu líder e/ou gestor de sua equipe.
 
-## II -	O QUE É ASSÉDIO E DISCRIMINAÇÃO NO LOCAL DO TRABALHO
+### II -	O QUE É ASSÉDIO E DISCRIMINAÇÃO NO LOCAL DO TRABALHO
 
 10. Qualquer local em que os Troopers estejam, no exercício das suas funções representando a empresa é considerado local de trabalho para os fins deste adendo.
 
@@ -36,7 +36,7 @@
 
 15. A discriminação está relacionada ao ato de distinguir, diferenciar ou relegar alguém com base em características físicas, raciais, orientação sexual, gênero, etc.
 
-## III -	REFORÇANDO NOSSO CÓDIGO DE CONDUTA: COMO LIDAR COM O CLIENTE PARA OS FINS DESTE ADENDO
+### III -	REFORÇANDO NOSSO CÓDIGO DE CONDUTA: COMO LIDAR COM O CLIENTE PARA OS FINS DESTE ADENDO
 
 16. As bases das relações entre a Hotmart e o cliente estão estabelecidas, prioritariamente, em nossos [Termos de Uso](CODEOFCONDUCT_PTBR.md), de amplo conhecimento e divulgação, bem como em acordos e avenças comerciais eventualmente firmados entre as Partes.
 
@@ -48,7 +48,7 @@
 
 20. A Hotmart não exige disponibilidade do profissional para atividades que coloquem o Trooper em situações de constrangimento causadas por postura inadequada do cliente.
 
-## IV -	COMO PROCEDER EM CASO DE ASSÉDIO OU DISCRIMINAÇÃO
+### IV -	COMO PROCEDER EM CASO DE ASSÉDIO OU DISCRIMINAÇÃO
 
 21. Todo assédio ou discriminação, mesmo que de forma tentada ou dissimulada, de natureza racista, homofóbica, machista, sexista, moral, ou outro, deve ser comunicado ao gestor do colaborador, ao time de talentos, ou ao comitê **All for One**, ao primeiro sinal de que isto esteja ocorrendo, para que a ação mais rápida e assertiva seja tomada.
 
