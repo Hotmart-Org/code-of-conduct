@@ -59,3 +59,8 @@ We'll analyse your modifications and, if it fits with our culture and what we th
 * Code of Conduct [in english](CODEOFCONUDCT_EN.md) and [in portuguese](CODEOFCONUDCT_PTBR.md)
 * Addendum - Prevention and Treatment of Harassment and Work Discrimination [in english](CODEOFCONDUCT_ADDENDUM_1_EN.md) and [in portuguese](CODEOFCONDUCT_ADDENDUM_1_EN.md)
 
+# License
+
+This work is licensed under a Creative Commons Attribution 3.0 Unported License
+
+For attribution requirements: http://creativecommons.org/licenses/by/3.0/
