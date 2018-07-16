@@ -78,9 +78,9 @@ Parágrafo único: Instaurada a apuração a partir de denúncia anônima, o  de
 
 32. Será indicada no Documento Inicial a comissão que apreciará a denúncia, formada por 5 (cinco) membros, sendo necessariamente 2 (dois) da equipe de talentos (sendo um do Departamento Pessoal), um do comitê All for One, 1 (um) membro do Jurídico, e 1 (um) membro do comitê de cultura, excluindo-se deste grupo qualquer pessoa que porventura esteja envolvida no caso.
 
-  31.1. A comissão indicada no Documento Inicial irá eleger um relator para apreciação da denúncia e que será responsável por toda instrução do processo, coleta de provas, entendimento com os envolvidos e emissão de relatório conclusivo com a indicação das medidas cabíveis para o caso, que será submetido a aprovação da respectiva comissão.
+  * A comissão indicada no Documento Inicial irá eleger um relator para apreciação da denúncia e que será responsável por toda instrução do processo, coleta de provas, entendimento com os envolvidos e emissão de relatório conclusivo com a indicação das medidas cabíveis para o caso, que será submetido a aprovação da respectiva comissão.
 
-  32.2. Tanto relator, quanto a própria comissão, deverão atuar durante todo o procedimento observando os princípios da imparcialidade e equidade, sendo vedadas condutas que indiquem em pré-julgamento de qualquer das partes até a conclusão do processo.
+  * Tanto relator, quanto a própria comissão, deverão atuar durante todo o procedimento observando os princípios da imparcialidade e equidade, sendo vedadas condutas que indiquem em pré-julgamento de qualquer das partes até a conclusão do processo.
 
 33. Caso o denunciante tenha se identificado, ele poderá, a critério da comissão, ser comunicado dos atos do procedimento, inclusive de sua conclusão, devendo em qualquer caso ser advertido do dever de sigilo.
 
@@ -88,13 +88,13 @@ Parágrafo único: Instaurada a apuração a partir de denúncia anônima, o  de
 
 35. O procedimento específico será concluído com decisão da comissão que importe em:
 
-  1. reconhecimento do assédio ou da discriminação grave, a ensejar a quebra do contrato com o cliente;
+  * reconhecimento do assédio ou da discriminação grave, a ensejar a quebra do contrato com o cliente;
 
-  2. reconhecimento do assédio ou da discriminação leve, a ensejar a notificação do cliente sobre a política da Hotmart a respeito de assédio e discriminação, com possibilidade de quebra do contrato em caso de reiteração da conduta;
+  * reconhecimento do assédio ou da discriminação leve, a ensejar a notificação do cliente sobre a política da Hotmart a respeito de assédio e discriminação, com possibilidade de quebra do contrato em caso de reiteração da conduta;
 
-  3. arquivamento pela não comprovação do assédio ou da discriminação;
+  * arquivamento pela não comprovação do assédio ou da discriminação;
 
-  4. arquivamento pela ausência de assédio ou de discriminação, com caracterização da má-fé do denunciante.
+  * arquivamento pela ausência de assédio ou de discriminação, com caracterização da má-fé do denunciante.
 
 Parágrafo único. A caracterização da má-fé do denunciante pode ensejar seu desligamento.
 
