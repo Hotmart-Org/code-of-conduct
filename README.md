@@ -5,9 +5,9 @@
 
 ### Want to contribute?
 
-This is a live, open source text and we'll very happy with your contributing!
+This document is open source and we'll be happy with your contributing!
 
-You can contribute with our code of conduct by cloning this repository, modifying what you think is important and send a Pull Request.
+You can contribute with our **Code of Conduct** by cloning this repository, modifying what you think is important and send a Pull Request.
 
 We'll analyse your modifications and, if it fits with our culture and what we think, we'll merge and put the credits to you.
 
