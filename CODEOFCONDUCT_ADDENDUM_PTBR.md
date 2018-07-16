@@ -120,4 +120,5 @@ Parágrafo único. A caracterização da má-fé do denunciante pode ensejar seu
 
 45. A Hotmart, a seu exclusivo critério poderá, se entender cabível, encaminhar cópia do procedimento às autoridades responsáveis nos casos que houver indícios de prática de crime ou de contravenção penal.
 
-A Hotmart se antecipa para discutir e regulamentar essa questão aqui no Brasil, e está aberta para pensar e revisar seu procedimento.
+
+*A Hotmart se antecipa para discutir e regulamentar essa questão aqui no Brasil, e está aberta para pensar e revisar seu procedimento.*
