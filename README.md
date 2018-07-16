@@ -1,5 +1,18 @@
 # Code of Conduct
 
+## Want to contribute?
+
+This is a live, open source text and we'll very happy with your contributing!
+
+You can contribute with our code of conduct by cloning this repository, modifying what you think is important and send a Pull Request.
+
+We'll analyse your modifications and, if it fits with our culture and what we think, we'll merge and put the credits to you.
+
+## List of Contents
+
+* Code of Conduct [in english](/CODEOFCONDUCT_EN.md) and [in portuguese](/CODEOFCONUDCT_PTBR.md)
+* Addendum - Prevention and Treatment of Harassment and Work Discrimination [in english](CODEOFCONDUCT_ADDENDUM_EN.md) and [in portuguese](/CODEOFCONDUCT_ADDENDUM_PTBR.md)
+
 ## Why should we have a Code of Conduct?
 
 Culture is the most valuable asset at Hotmart. It is our Culture that is the compass for the people in our teams, and guides the manner in which the routine of the Company is conducted. Our Culture is so decisive in all of our decisions, that it represents a determinant step in the promotion, dismissal and selection processes, in order for everyone who joins the team shares the same moral standard of the Company and the people of which it is composed. Thus, and from the assumption that the Company is made up of people with similar values, why should we have a Code of Conduct?
@@ -45,19 +58,6 @@ The measures taken in case of violations to the Code of Conduct are:
 * Termination for cause
 
 In taking disciplinary actions, the nature and gravity of the violation will be taken into consideration, and also the consequences from the acts, to other individuals and to the Company as a whole.
-
-## Want to contribute?
-
-This is a live, open source text and we'll very happy with your contributing!
-
-You can contribute with our code of conduct by cloning this repository, modifying what you think is important and send a Pull Request.
-
-We'll analyse your modifications and, if it fits with our culture and what we think, we'll merge and put the credits to you.
-
-## List of Contents
-
-* Code of Conduct [in english](CODEOFCONUDCT_EN.md) and [in portuguese](CODEOFCONUDCT_PTBR.md)
-* Addendum - Prevention and Treatment of Harassment and Work Discrimination [in english](CODEOFCONDUCT_ADDENDUM_1_EN.md) and [in portuguese](CODEOFCONDUCT_ADDENDUM_1_EN.md)
 
 # License
 
