@@ -2,11 +2,6 @@
 
 * Code of Conduct [in english](/CODEOFCONDUCT_EN.md) and [in portuguese](/CODEOFCONDUCT_PTBR.md)
 
-![IEJC - Instituto de Ensino Jurídico e Consultoria](https://github.com/Hotmart-Org/code-of-conduct/blob/master/assets/iejc.png?raw=true "IEJC - Instituto de Ensino Jurídico e Consultoria")
-
-![Visibilidade Fenimina](https://github.com/Hotmart-Org/code-of-conduct/blob/master/assets/visibilidade_feminina.png?raw=true "Visibilidade Feminina")
-
-
 ### Want to contribute?
 
 This document is open source and we'll be happy with your contributing!
@@ -66,3 +61,8 @@ In taking disciplinary actions, the nature and gravity of the violation will be 
 This work is licensed under a Creative Commons Attribution 3.0 Unported License
 
 For attribution requirements: http://creativecommons.org/licenses/by/3.0/
+
+![IEJC - Instituto de Ensino Jurídico e Consultoria](https://github.com/Hotmart-Org/code-of-conduct/blob/master/assets/iejc.png?raw=true "IEJC - Instituto de Ensino Jurídico e Consultoria")
+
+![Visibilidade Fenimina](https://github.com/Hotmart-Org/code-of-conduct/blob/master/assets/visibilidade_feminina.png?raw=true "Visibilidade Feminina")
+
