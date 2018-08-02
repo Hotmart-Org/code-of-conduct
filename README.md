@@ -2,6 +2,11 @@
 
 * Code of Conduct [in english](/CODEOFCONDUCT_EN.md) and [in portuguese](/CODEOFCONDUCT_PTBR.md)
 
+![IEJC - Instituto de Ensino Jurídico e Consultoria](https://github.com/Hotmart-Org/code-of-conduct/blob/master/assets/iejc.png?raw=true "IEJC - Instituto de Ensino Jurídico e Consultoria")
+
+![Visibilidade Fenimina](https://github.com/Hotmart-Org/code-of-conduct/blob/master/assets/visibilidade_feminina.png?raw=true "Visibilidade Feminina")
+
+
 ### Want to contribute?
 
 This document is open source and we'll be happy with your contributing!
