@@ -245,7 +245,127 @@ The International Convention on the Elimination of All Forms of Racial Discrimin
 
 > Any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.
 
+- - - -
+
+# ADDENDUM TO THE CODE OF CONDUCT
+
+### ESTABLISHES RULES AND PROCEDURES FOR THE PREVENTION AND FIGHT OF HARASSMENT AND DISCRIMINATION AT THE WORKPLACE
+
+### I - HOTMART'S COMMITMENT TO THE PREVENTION AND FIGHTING HARASSMENT
+
+1. Hotmart is jointly responsible for the welfare and integrity of all Troopers in the performance of their duties, in any situation where they are representing the company.
+2. We consider any type of discrimination or harassment, by Hotmart employees with clients, suppliers, coworkers and partners, unacceptable. And, on the other hand, it is unacceptable for clients, suppliers, coworkers or partners to discriminate against or harass Hotmart Troopers, regardless of the means or place where they are. The procedure and measures to be taken will be detailed in the items below.
+
+3. Hotmart provides training programs for its employees created by experts on how to act in cases of discrimination or harassment.
+
+4. Hotmart is committed to the proper investigation and referral of reported discrimination and harassment cases of any nature.
+
+5. The investigation of discrimination and harassment complaints will be done through the establishment of a specific procedure, ensuring the anonymity of the complainant, the confidentiality of the procedure, the impartiality of the committee representing Hotmart, the right to information of its phases to the complainant and the protection of the complainant, including labor rights, unless bad faith is proven.
+
+7. Hotmart shall always maintain its channel for reporting irregularities active, especially for harassment and discrimination cases, as specified in item 22.
+
+8. Hotmart may discontinue any professional relationship as a result of discrimination and harassment after due investigation in a specific procedure, considering the seriousness of the conduct.
+
+9. The Trooper who feels harassed or discriminated against is guaranteed the immediate interruption of interaction with the client, by communicating the fact to his/her leader and/or team manager.
+
+### II - WHAT IS HARASSMENT AND DISCRIMINATION AT THE WORKPLACE?
+
+10. Anywhere the Troopers are, while performing their duties for the company is considered their workplace for the purposes of this addendum.
+
+11. The notion of harassment and discrimination practiced by Hotmart is contemporary and therefore, broad and open so as to cover any unwanted behavior by the Trooper, contrary to the human dignity or that creates an intimidating, hostile, degrading, humiliating or destabilizing environment, violating the behaviors already described in the Code of Conduct.
+
+12. Hotmart understands that the conceptualization of harassment and discrimination is subjective, and is committed to prevent and combat all types of harassment and discrimination in their most varied conceptions.
+
+13. Moral harassment is related to any conduct that aims to diminish a Trooper’s self-esteem and ultimately, his/her job termination.
+
+14. Sexual harassment is related to unwanted behaviors with a sexual connotation, with the prevalence of the agent of asymmetrical relations of power, not only hierarchical, but in all spheres and within all scopes.
+“Embarrass someone with the purpose of gaining sexual advantage or favor, with the prevalence of the agent using his/her superior hierarchical status or ascendance inherent to the exercise of employment, position or function" (Law 10,224, 2001)
+
+15. Discrimination is related to the act of distinguishing, differentiating or relegating someone based on physical, racial, sexual orientation, gender, etc.
+
+### III - REINFORCING OUR CODE OF CONDUCT: HOW TO DEAL WITH CLIENTS FOR THE PURPOSES OF THIS ADDENDUM
+
+16. The bases of the relations between Hotmart and the client are established, as a matter of priority, in our Terms of Use, which is widely known and publicized, as well as in commercial agreements eventually signed between the Parties.
+
+17. Any interaction with our clients, whether in person, by telephone, email, or any other channel, must focus on positive results for both the client and Hotmart.
+
+18. Any interaction must be based on mutual respect, from both Hotmart as well as the client.
+
+19. Hotmart recommends that meetings with outside clients be conducted in public places, and undertakes to bear the costs for the leasing of a conference room whenever possible, if necessary.
+
+20. Hotmart does not require the availability of its professionals for activities that put the Trooper in situations of embarrassment caused due to an improper attitude by the client.
+
+### IV - WHAT YOU SHOULD DO IN CASES OF HARASSMENT OR DISCRIMINATION
+
+21. All harassment or discrimination, whether in an attempted or disguised manner, of a racist, homophobic, chauvinistic, sexist, moral or other nature, must be reported to the employee’s manager, the Team of Talents, or the All for One committee, at the first sign that this is occurring, so that the quickest and most assertive action can be taken.
+
+22. We guarantee the anonymity of the complaint made by a Trooper who feels harassed or discriminated against, or who has witnessed any situation involving harassment or discrimination, through the complaint channel (https://troopers-report.hotmart.com), protecting the anonymity of the complainant.
+Sole Paragraph: After the investigation is established based on an anonymous complaint, the accused party will be informed by the committee about the responsibility to maintaining confidentiality, preserving harmony in the workplace until the investigation is completed.
+
+23. Based the complaint informed, a specific procedure will be established by the team of talents and the All for One committee, for the investigation, clarification of the facts, protection of the denouncer and necessary channeling, as described in the Specific Procedure.
+
+24. The procedure shall begin with the preparation of an Initial Document, with the description of the conduct, and shall mention the confidentiality nature of the procedure, as well as that it shall be ruled, in all phases, by the adversarial system and ample defense, whenever the supposed agent is a Hotmart Trooper.
+
+### IV.i - Specific procedure for harassment or discrimination practiced by clients
+
+25. The communication of harassment or discrimination practiced by a Hotmart client on the specific channels has the immediate effect of interrupting his/her contact, in any form, with the Trooper.
+
+26. In view of Hotmart's commitment to the subject of harassment and discrimination, and the automatic generation of effects from its communication, a specific procedure will necessarily be established to investigate the complaint.
+
+27. The Trooper who believes that the client's treatment is being discriminatory or abusive shall seek to record all communication, saving messages, emails, and print conversation screens, so that there is an effective contribution in the investigation of the specific procedure.
+
+28. All calls made to corporate telephones may be recorded and filed for 6 months.
+
+29. Within the specific procedure, all means of proof admitted by law may be produced, such as those described in item 27.
+
+30. When establishing the procedure, the Team of Talents shall indicate in the Initial Document, the preliminary proceedings necessary to determine the reprehensible conduct, such as the requisition of documents, breach of confidentiality of institutional emails and corporate phone recordings, among others deemed necessary.
+
+31. The procedure’s term shall be thirty days (30), extendable for equal and successive periods, provided that it is by a decision based and approved by the committee referred to in item 32.
+
+32. The committee, indicated in the Initial Document, which will analyze the complaint, formed by five (5) members, with two (2) necessarily belonging to the Team of Talents (one from the Personnel Department), one from the All for One Committee, one (1) member from the Legal Department and one (1) member of the Culture Committee, excluding from this group any person who may be involved in the case.
+
+  * The committee indicated in the Initial Document will elect a rapporteur to analyze the complaint and who will be responsible for all proceedings of the process, the collection of evidence, arrangements with those involved and the issuance of a conclusive report indicating the measures applicable to the case, which shall be submitted for approval by the respective committee.
+
+  * Both the rapporteur, as well as the committee itself, shall act during the entire proceedings observing the principles of impartiality and fairness, and prohibiting conducts that indicate the pre-judgment of either party until the conclusion of the process.
+
+33. If the complainant has identified him/herself, he/she, at the discretion of the committee, may be informed of the proceedings, including the conclusions, and in any case shall be advised of the duty of confidentiality.
+
+34. The procedure shall be strictly confidential, safeguarding the privacy of the party potentially involved and the complainant.
+
+35. The specific procedure will be concluded with a decision by the committee, which shall result in:
+
+  *	the acknowledgement of harassment or serious discrimination, leading to the breach of contract with the client;
+
+  *	the acknowledgment of harassment or mild discrimination, leading to notification of the client about Hotmart's policy regarding harassment and discrimination, with the possibility of breach of contract in case of repeated conduct;
+
+  *	filing for failure to prove harassment or discrimination;
+
+  * filing due to absence of harassment or discrimination, characterizing the bad faith of the complainant.
+
+Sole Paragraph: The characterization of the complainant's bad faith may lead to his or her employment termination.
+
+36. Those directly involved may have access, if thus required, to the decision document.
+
+37. Hotmart, at its sole discretion may, if deemed appropriate, forward a copy of the proceedings to the responsible authorities in cases where there is evidence of a crime or criminal violation.
+
+### IV.ii - Specific procedure for harassment or discrimination practiced by a Trooper
+
+38. If the alleged conduct was theoretically performed by a Trooper, the specific procedure shall follow the rules of the procedure set forth in item IV.i., in particular the provisions of item 32.2.
+
+39. The confidentiality of the procedure is guaranteed for both the complainant and defendant, safeguarding the privacy and dignity of those involved, as set forth in item 22.
+
+40. All means of evidence admitted by law may be produced, as described in item 29.
+
+41. The right to broad defense and the adversary system is guaranteed to the defendant.
+
+42. The decision will be made by the committee appointed by the responsible body and sent to the Team of Talents for the application of disciplinary sanctions, as the case may be, as detailed in the Specific Procedure.
+
+43. Whenever possible and advisable, Hotmart will promote the right to retraction, as educational and remedial measures.
+
+44. The Trooper that initiates a complaint procedure cannot suffer any type of retaliation for that reason, safeguarding the possibility of being responsible in the case of bad faith.
+
+45. Hotmart, at its sole discretion, may if deemed appropriate, forward a copy of the procedure to the responsible authorities in cases where there is evidence of a crime or criminal violation.
 
 
-
+*Hotmart is anticipating the discussion and regulation of this issue, and is open to think and review its procedure.
 
