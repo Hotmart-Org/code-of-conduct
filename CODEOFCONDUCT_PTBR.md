@@ -20,40 +20,6 @@ Diante da dúvida, é sempre melhor ter o que consultar e pautar suas atitudes n
 
 Também esperamos que este documento oriente a conduta, não só de nossos colaboradores, como a de nossos parceiros, clientes, fornecedores e de todos aqueles que, de alguma forma, se relacionam com a empresa e com os seus serviços.
 
-### Como aplicar?
-
-Já em seu primeiro dia de trabalho, o novo colaborador recebe um exemplar impresso do nosso Deck de Cultura e é orientado, pela sua “madrinha” ou “padrinho”, a ler todo o seu conteúdo. Assim, a pessoa já consegue ter uma ideia mais ampla de como a empresa funciona, de como é e deve ser a atmosfera do ambiente e de como a Hotmart espera que ela aja para colaborar com o bom andamento da organização.
-
-Basicamente, o Deck de Cultura é o principal guia comportamental da empresa e deve cumprir o papel de orientador nas mais diversas situações. No entanto, algumas informações mais específicas não estão lá, embora também mereçam bastante atenção. Por isso, o Código de Conduta servirá para orientar ações e decisões que não puderem ser elaboradas apenas com base no Deck e que precisem de análises mais particulares e minuciosas.
-
-### O que a Hotmart espera de você?
-
-Se você está conosco, isso significa que sua compatibilidade com a empresa já foi provada, por isso, é notório que temos uma enorme confiança em você e nas suas atitudes. Esperamos que, com a ajuda deste Código de Conduta, você se sinta mais seguro ao tomar decisões importantes, sem medo de contrariar as diretrizes morais da empresa e, principalmente, as suas próprias. Nosso maior desejo é que esse código esteja sempre muito próximo à conduta que você adota na sua vida pessoal, pois assim, teremos a certeza de que pensamos e agimos de maneira semelhante e de que poderemos acrescentar muito uns aos outros.
-
-Comitê responsável: **All For One**
-
-Nossa empresa é uma pequena amostra da sociedade que desejamos, da maneira como as pessoas se organizam e defendem seus próprios interesses, por isso, o primeiro passo para ser coerente com o mundo e com aquilo que ele necessita é promover, dentro da organização, ações que gerem resultados positivos para o funcionário como profissional e, principalmente, como ser humano.
-
-Foi partindo dessa mentalidade que surgiu o All For One, um comitê formado por voluntários dispostos a discutir e implementar ações internas e externas, nos âmbitos cultural, social e econômico, que tenham, como objetivo, atingir positivamente os colaboradores da Hotmart e a comunidade.
-
-O objetivo do All For One é contribuir para que a empresa e a sociedade caminhem em uma direção livre, solidária, justa, desprendida de qualquer tipo de discriminação e preconceito, e rica em diversidade, respeito e tolerância. A função do All For One é garantir que o Código de  Conduta da Hotmart seja sempre cumprido e que as adaptações necessárias sejam feitas e aplicadas de acordo com as demandas que, porventura, possam aparecer.
-
-### O que acontece em caso de violações ao código?
-
-Acreditamos no ser humano e, principalmente, na capacidade que ele tem de aprender com os próprios erros, por isso, é certo que todos àqueles que, por algum motivo, se desviaram do comportamento esperado pela empresa no que diz respeito ao cumprimento do que está no Deck de Cultura, terão todo o suporte e oportunidades de reverem/reverterem suas ações. Porém, o conteúdo presente no Código de Conduta abrange questões éticas e inegociáveis, sendo assim, o seu não-cumprimento significa uma divergência muito grande entre empresa e colaborador.
-
-Caso algum Trooper presencie alguma violação ao código ou se sentir desrespeitado, estimulamos o diálogo para resolução do que foi identificado. Caso não se sinta à vontade ou não encontre um espaço adequado para abordar a situação, procure pelo seu líder ou à equipe de Talentos. Os casos mais graves, como crimes, todo tipo de assédio, abuso e violência devem ser comunicados imediatamente.
-
-Vale frisar que todos os casos serão avaliados pelo “All for One” em conjunto com o time de Talentos e as medidas serão estabelecidas de acordo com a gravidade de cada situação. Os casos serão tratados de maneira segura e com o maior zelo possível, sem que haja retaliações. Caso um dos envolvidos faça parte do grupo All for One ou do time de Talentos, essa pessoa não será incluída na análise do problema ou na tomada de decisão.
-
-As medidas que devem ser tomadas em caso de descumprimento do Código de Conduta são:
-
-* Advertência verbal ou por escrito
-* Desligamento sem justa causa
-* Desligamento com justa causa
-
-Na aplicação das medidas disciplinares, serão consideradas a natureza e a gravidade da infração, e nas consequências causadas pelos atos, tanto a outros indivíduos como para a empresa como um todo.
-
 - - - -
 
 ## CONDUTAS QUE ESPERAMOS DOS NOSSOS TROOPERS
