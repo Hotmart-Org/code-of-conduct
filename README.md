@@ -1,6 +1,6 @@
 # Code of Conduct
 
-* Code of Conduct [in english](/CODEOFCONDUCT_EN.md) and [in portuguese](/CODEOFCONDUCT_PTBR.md)
+* Code of Conduct [in english](/CODEOFCONDUCT_EN.md),  [in spanish](/CODEOFCONDUCT_ES.md) and [in portuguese](/CODEOFCONDUCT_PTBR.md)
 
 ### Want to contribute?
 
