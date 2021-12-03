@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: code-of-conduct
+  description: ''
+  tags: []
+  annotations:
+    github.com/project-slug: Hotmart-Org/code-of-conduct
+spec:
+  type: service
+  lifecycle: production
+  owner: unknown
+  system: unknown
+  heimdall:
+    reportable: ''
+    pci: false
+    products: Code of Conduct
+    squads: ''
+    impact: ''
