@@ -14,6 +14,7 @@ spec:
   heimdall:
     reportable: ''
     pci: false
-    products: Code of Conduct
-    squads: ''
+    products:
+    - Code of Conduct
+    squads: []
     impact: ''
