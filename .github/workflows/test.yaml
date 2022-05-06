@@ -1,10 +1,9 @@
 name: docker-build
 
 on:
-  pull_request:
+  push:
     branches: [master]
-    paths:
-    - docker/**
+
 
 jobs:
   docker-build:
