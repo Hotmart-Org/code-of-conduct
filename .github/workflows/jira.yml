@@ -4,10 +4,8 @@ on:
     branches-ignore:
       - main
       - master
-      - develop
       - staging
-      - dependabot/**
-      - translations_**
+
 jobs:
   validate:
     uses: Hotmart-Org/actions/.github/workflows/jira.yaml@master
